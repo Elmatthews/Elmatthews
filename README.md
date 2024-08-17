@@ -4,6 +4,7 @@ I’m a Data Analyst with a unique background in Integrated Science Education. I
 I enjoy transforming raw data into actionable insights and compelling visualizations, and I’m always exploring new tools and techniques to stay ahead in the data field.
 
 I am adept with data analysis and Visualization softwares and tools like Spreadsheets (Microsoft Excel, Google Sheets), SQL (MySQL, PostgreSQL and BigQuery) for database, and programming languages R and Python. 
+
 Feel free to browse my repositories, check out my projects, and reach out if you’d like to discuss data analytics or potential collaborations!
 
 <!---
